@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <title>Conteúdo e Estrutura em HTML</title>
+  </head>
+  <body>
+    <h1>O Barcelona conseguira ganhar a UEFA</h1>
+    <p>Barcelona Consegue Conquistar a UEFA: A Vitória que Encanta
+
+O Barcelona, um dos clubes mais tradicionais e respeitados do futebol mundial, alcançou mais um feito impressionante ao conquistar a UEFA Champions League, adicionando mais um título à sua vasta galeria. A equipe, que passou por altos e baixos nos últimos anos, mostrou força, determinação e habilidade para superar adversários de peso..</p>
+
+    <h2>Desafios até a FINAL</h2>
+    <p>Principais Alvos(TIMES QUE SÃO FAVORITOS ):</p>
+    <ol>
+      <li>Real Marid</li>
+      <li>Bayer Leverkunsen</li>
+      <li>Liverpool</li>
+    </ol>
+    <h2>Seus principais JOGADORES:</h2>
+    
+    <ul>
+      <li>Lamine Yamal</li>
+      <li>Pedri</li>
+      <li>Raphina</li>
+    </ul>
+
+    <h2>Sua Principal ESTRELA</h2>
+    
+    <a href="https://www.twitch.tv/alanzoka">Visite o Grandeoso</a>
+    :</p>
+    <img src="https://th.bing.com/th/id/OIP.VEinB-OCuRPyXDu7DuJi0QHaE8?rs=1&pid=ImgDetMain" alt="Imagem de exemplo">
+
+    
+  
+    <h2>O MAIOR CAMPEÃO</h2>
+    <img  width="560" height="315" src="https://www.gannett-cdn.com/-mm-/efd1844b42cbd9102bb70bd4cc6ff8cac5d798b3/c=0-290-5568-3422/local/-/media/2018/05/26/USATODAY/usatsports/afp-afp_15d8vg_100161773.jpg?width=3200&height=1800&fit=crop&format=pjpg&auto=webp">
+   <P></P>
+     <a href="https://www.twitch.tv/alanzoka">O maior da EUROPA</a>
+    
+
+     <h2>Seu melhor jogo da temporada</h2>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/tjqT3XX22RU?si=Mpp3Y9JZim6rMqj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p>Materia sobre o jogo</p><a href="https://www.twitch.tv/alanzoka">Principais</a>
+  </body>
+</html>
